@@ -1,2 +1,2 @@
 # cstr-op-web-project
-1. 19.11.2(Sun) CEO Meeting 
+1. 19.11.2(Sun) CEO Meeting
