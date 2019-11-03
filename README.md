@@ -1,4 +1,7 @@
-# cstr-op-web-project
+# construction-client-flatform
+ :construction: 발주업체와 자재, 건축업체 등 하청업체와의 Online-Connection을 제공하는 Platform Service.
+
+# History
 - **19.11.2(Sun)** : CEO Meeting
 - **19.12.??????** : Meeting about Contract(계약) with Estimate(견적서)
 
