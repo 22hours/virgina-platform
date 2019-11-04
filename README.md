@@ -1,4 +1,4 @@
-# construction-client-flatform
+# virgina-flatform
  :construction: 발주업체와 자재, 건축업체 등 하청업체와의 Online-Connection을 제공하는 Platform Service.
 
 # History
