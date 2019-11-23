@@ -20,3 +20,4 @@
 - 이후 매달 Confirm 받고, 수정을 거듭
 - **20. 4월**에 Beta Service 시작 
 - 매달 confirm 간격에는 카카오톡을 통해 상호 간 인지gap 줄이기.
+- slack test
